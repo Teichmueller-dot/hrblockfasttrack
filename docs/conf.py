@@ -22,5 +22,5 @@ html_static_path = ['_static']
 
 # Google site verification (FIXED)
 html_meta = {
-    "google-site-verification": "xMvhEb7ayr2oSB67CmQJ-XqQ7Pati-Stu9KHRdN-J6c"
+    "msvalidate.01": "15C4041BD69D3D2E2994470D5BF8A9C4"
 }
