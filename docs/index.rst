@@ -6,7 +6,7 @@ If you have already purchased H&R Block, you may be wondering what the next step
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://baselinkhelp.click/hr-block-software/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with HR Block</a>
+       <a href="https://hrblockdesk.github.io/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with HR Block</a>
    </div>
 
 Why Proper Setup Matters
