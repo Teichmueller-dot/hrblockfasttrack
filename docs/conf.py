@@ -4,8 +4,8 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 # Project information
-project = 'HR Block Fast Track'
-author = 'Elemor'
+project = 'New Project'
+author = 'Lightfoot'
 release = '1.0'
 
 # General configuration
